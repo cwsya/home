@@ -24,11 +24,18 @@ const data = reactive({
     link: 'https://cws.plus',
   }],
 
-  myProjects: [{
-    name: 'Home',
-    description: '个人简介、主页、引导页',
-    link: 'https://cws.plus',
-  }],
+  myProjects: [
+    {
+      name: 'Home',
+      description: '个人简介、主页、引导页',
+      link: 'https://cws.plus',
+    },
+    {
+      name: 'Disk',
+      description: '个人网盘',
+      link: 'https://disk.cws.plus',
+    }
+  ],
 
   socialLinks: [{
     icon: '<i i-ant-design-github-outlined />',
