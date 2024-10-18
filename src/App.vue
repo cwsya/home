@@ -44,7 +44,7 @@ const data = reactive({
 
   socialLinks: [{
     icon: '<i i-ant-design-github-outlined />',
-    link: 'https://github.com/sun0225SUN',
+    link: 'https://github.com/cwsya',
     label: 'Github',
   }, {
     icon: '<i i-ant-design-mail-outlined />',
