@@ -43,7 +43,7 @@ const data = reactive({
     {
       name: 'Status',
       description: '站点监控',
-      link: 'https://status.cws.plus',
+      link: 'https://stats.uptimerobot.com/sEkqLbF2Ha',
     }
   ],
 
