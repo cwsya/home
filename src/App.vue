@@ -31,6 +31,11 @@ const data = reactive({
       link: 'https://cws.plus',
     },
     {
+      name: 'Blog',
+      description: '个人博客',
+      link: 'https://blog.cws.plus',
+    },
+    {
       name: 'Disk',
       description: '个人网盘',
       link: 'https://disk.cws.plus',
