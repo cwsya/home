@@ -38,12 +38,12 @@ const data = reactive({
     {
       name: 'Disk',
       description: '个人网盘',
-      link: 'https://disk.cws.plus',
+      link: 'https://alist.cws.plus',
     },
     {
       name: 'Status',
       description: '站点监控',
-      link: 'https://stats.uptimerobot.com/sEkqLbF2Ha',
+      link: 'https://stats.cws.plus',
     }
   ],
 
