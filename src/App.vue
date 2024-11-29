@@ -41,6 +41,11 @@ const data = reactive({
       link: 'https://alist.cws.plus',
     },
     {
+      name: 'Music',
+      description: '音乐库',
+      link: 'https://music.cws.plus',
+    },
+    {
       name: 'Status',
       description: '站点监控',
       link: 'https://stats.uptimerobot.com/sEkqLbF2Ha',
